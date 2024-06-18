@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Skill-2040**
 
-- 🌱 I’m currently learning **React , DeepLearning**
+- 🌱 I’m currently learning **Flutter, React , DeepLearning**
 
 - 👯 I’m looking to collaborate on **to contribute to projects that have a positive impact on humanity.**
 
